@@ -1,0 +1,15 @@
+/Users/maxmengeringhausen/Documents/IPI/C#/MortalCombat2/bin/Debug/net8.0/MortalCombat2
+/Users/maxmengeringhausen/Documents/IPI/C#/MortalCombat2/bin/Debug/net8.0/MortalCombat2.deps.json
+/Users/maxmengeringhausen/Documents/IPI/C#/MortalCombat2/bin/Debug/net8.0/MortalCombat2.runtimeconfig.json
+/Users/maxmengeringhausen/Documents/IPI/C#/MortalCombat2/bin/Debug/net8.0/MortalCombat2.dll
+/Users/maxmengeringhausen/Documents/IPI/C#/MortalCombat2/bin/Debug/net8.0/MortalCombat2.pdb
+/Users/maxmengeringhausen/Documents/IPI/C#/MortalCombat2/obj/Debug/net8.0/MortalCombat2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maxmengeringhausen/Documents/IPI/C#/MortalCombat2/obj/Debug/net8.0/MortalCombat2.AssemblyInfoInputs.cache
+/Users/maxmengeringhausen/Documents/IPI/C#/MortalCombat2/obj/Debug/net8.0/MortalCombat2.AssemblyInfo.cs
+/Users/maxmengeringhausen/Documents/IPI/C#/MortalCombat2/obj/Debug/net8.0/MortalCombat2.csproj.CoreCompileInputs.cache
+/Users/maxmengeringhausen/Documents/IPI/C#/MortalCombat2/obj/Debug/net8.0/MortalCombat2.sourcelink.json
+/Users/maxmengeringhausen/Documents/IPI/C#/MortalCombat2/obj/Debug/net8.0/MortalCombat2.dll
+/Users/maxmengeringhausen/Documents/IPI/C#/MortalCombat2/obj/Debug/net8.0/refint/MortalCombat2.dll
+/Users/maxmengeringhausen/Documents/IPI/C#/MortalCombat2/obj/Debug/net8.0/MortalCombat2.pdb
+/Users/maxmengeringhausen/Documents/IPI/C#/MortalCombat2/obj/Debug/net8.0/MortalCombat2.genruntimeconfig.cache
+/Users/maxmengeringhausen/Documents/IPI/C#/MortalCombat2/obj/Debug/net8.0/ref/MortalCombat2.dll
